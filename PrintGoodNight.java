@@ -6,6 +6,7 @@ public class PrintGoodNight {
                 System.out.println("Gute Nacht");
 		System.out.println("Buenas Noches");
 		System.out.println("Bonum Noctis");
+		System.out.println("Buona Notte");
 	}
 
 }

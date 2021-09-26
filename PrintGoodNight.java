@@ -8,6 +8,7 @@ public class PrintGoodNight {
 		System.out.println("Bonum Noctis");
                 System.out.println();
                 System.out.println("Goedenacht");
+		System.out.println("From origin");
 	}
 
 }

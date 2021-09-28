@@ -9,6 +9,7 @@ public class PrintGoodNight {
                 System.out.println();
                 System.out.println("Goedenacht");
 		System.out.println("From origin");
+		System.out.println("remote");
 	}
 
 }

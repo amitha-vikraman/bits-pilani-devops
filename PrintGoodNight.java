@@ -10,6 +10,7 @@ public class PrintGoodNight {
                 System.out.println("Goedenacht");
 		System.out.println("From origin");
 		System.out.println("remote");
+		System.out.println("first commit in remote");
 	}
 
 }

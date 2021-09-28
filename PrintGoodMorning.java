@@ -6,7 +6,8 @@ public class PrintGoodMorning {
 		System.out.println("Good morning from branch"); 
                 System.out.println("Bonjour");  
 		System.out.println("Buenos dias");  
-		System.out.println("Bonum Mane");   
+		System.out.println("Bonum Mane");    
+		System.out.println("God morgen");
 	}
 
 }

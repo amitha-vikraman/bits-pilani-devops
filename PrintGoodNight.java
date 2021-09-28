@@ -11,6 +11,7 @@ public class PrintGoodNight {
 		System.out.println("From origin");
 		System.out.println("remote");
 		System.out.println("first commit in remote");
+		System.out.println("second commit in remote");
 	}
 
 }
